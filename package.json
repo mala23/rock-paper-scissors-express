@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissors-express",
+  "version": "1.0.0",
+  "description": "A game of Rock, Paper, Scissors written in JavaScript, built on express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mala23/rock-paper-scissors-express.git"
+  },
+  "author": "mala23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mala23/rock-paper-scissors-express/issues"
+  },
+  "homepage": "https://github.com/mala23/rock-paper-scissors-express"
+}
